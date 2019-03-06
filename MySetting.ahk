@@ -1,6 +1,6 @@
-F13 & J::Send,{Blind}{Left}    ;右Alt + Hで←
-F13 & K::Send,{Blind}{Down}    ;右Alt + Jで↓
-F13 & I::Send,{Blind}{Up}      ;右Alt + Kで↑
+F13 & J::Send,{Blind}{Left}    ;右Alt + Jで←
+F13 & K::Send,{Blind}{Down}    ;右Alt + Kで↓
+F13 & I::Send,{Blind}{Up}      ;右Alt + Iで↑
 F13 & L::Send,{Blind}{Right}   ;右Alt + Lで→
 
 F13 & U::Send,{Blind}{PgUp}   ;右Alt + UでPageUp
